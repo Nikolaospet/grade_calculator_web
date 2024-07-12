@@ -44,7 +44,7 @@ Step 4:
   
   Navigate to http://127.0.0.1:5000/ in your web browser.
 
-##Usage
+## Usage
 
 Start the App: When you open the application, you'll be prompted to enter the number of subjects.
 Input Subject Details: For each subject, enter:
@@ -53,7 +53,7 @@ ECTS Credits: The number of ECTS credits for the subject.
 Grading Scale: The scale used for grading (e.g., 30, 50, 100).
 Calculate: Click "Calculate Grade" to get your final grade, displayed on both a scale of 100 and a scale of 10.
 
-##Example
+## Example
 
 Suppose you have completed 3 subjects with the following details:
 
